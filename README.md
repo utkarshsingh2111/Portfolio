@@ -1,4 +1,4 @@
-🌐 Personal Portfolio
+# 🌐 Personal Portfolio
 
 This is my personal portfolio website created using HTML and CSS.  
 It represents my skills, projects, and basic information as a fresher in the IT field.
